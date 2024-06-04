@@ -1,2 +1,2 @@
-# StonePaperScissors
+# RockPaperScissors
 javascript project
